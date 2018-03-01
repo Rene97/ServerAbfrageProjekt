@@ -1,0 +1,9 @@
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\bin\Debug\ClientAbfrageProjekt.exe.config
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\bin\Debug\ClientAbfrageProjekt.exe
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\bin\Debug\ClientAbfrageProjekt.pdb
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\obj\Debug\ClientAbfrageProjekt.Client1.resources
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\obj\Debug\ClientAbfrageProjekt.Properties.Resources.resources
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\obj\Debug\ClientAbfrageProjekt.csproj.GenerateResource.Cache
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\obj\Debug\ClientAbfrageProjekt.exe
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\obj\Debug\ClientAbfrageProjekt.pdb
+C:\Users\Rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ClientAbfrageProjekt\obj\Debug\ClientAbfrageProjekt.csprojResolveAssemblyReference.cache

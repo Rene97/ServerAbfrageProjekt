@@ -1,0 +1,9 @@
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\bin\Debug\ServerAbfrageProjekt.exe.config
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\bin\Debug\ServerAbfrageProjekt.exe
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\bin\Debug\ServerAbfrageProjekt.pdb
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\obj\Debug\ServerAbfrageProjekt.csprojResolveAssemblyReference.cache
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\obj\Debug\ServerAbfrageProjekt.Server1.resources
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\obj\Debug\ServerAbfrageProjekt.Properties.Resources.resources
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\obj\Debug\ServerAbfrageProjekt.csproj.GenerateResource.Cache
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\obj\Debug\ServerAbfrageProjekt.exe
+c:\users\rene\documents\visual studio 2013\Projects\ServerAbfrageProjekt\ServerAbfrageProjekt\obj\Debug\ServerAbfrageProjekt.pdb
